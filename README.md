@@ -12,7 +12,7 @@
 
 #### 📬 Let’s Connect!
 - 📩 Drop me an email: rishi.sakthivelu@edu.em-lyon.com
-- 📜 Check out my Resume
+- 📜 Check out my [Resume](Resume 2.3.pdf)
 
 <!--
 **RishiSakthivelu/RishiSakthivelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
