@@ -2,7 +2,7 @@
 
 #### 💡 What I’m Up To:
 - 🌱 __Building Green Portfolios__ – Exploring the balance between returns & ESG scores ♻️
-- 🔢 __Simulating Options Prices__ – I recently coded a Monte Carlo options pricing model, check it out [here](MonteCarlo_OptionsPricing.ipynb)!
+- 🔢 __Simulating Options Prices__ – I recently coded a Monte Carlo options pricing model, check it out [here](https://github.com/RishiSakthivelu/BlackScholes/blob/f09711b795933c137c823a27d0085d8467943272/MonteCarlo_OptionsPricing.ipynb)!
 - 🛠️ __Turning Math Into Code__ – Looking to collaborate on cool projects that bring abstract theories to life.
 
 #### 🎯 What I’m Looking For:
