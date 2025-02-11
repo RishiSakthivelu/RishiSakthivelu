@@ -2,7 +2,7 @@
 
 #### 💡 What I’m Up To:
 - 🌱 __Building Green Portfolios__ – Exploring the balance between returns & ESG scores ♻️
-- 🔢 __Simulating Options Prices__ – I recently coded a Monte Carlo options pricing model, check it out here!
+- 🔢 __Simulating Options Prices__ – I recently coded a Monte Carlo options pricing model, check it out [here](MonteCarlo_OptionsPricing.ipynb)!
 - 🛠️ __Turning Math Into Code__ – Looking to collaborate on cool projects that bring abstract theories to life.
 
 #### 🎯 What I’m Looking For:
